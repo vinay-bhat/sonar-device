@@ -1,6 +1,6 @@
-Learn how to make a sonar device simply by using an Arduino and an Ultrasonic Ping Sensor.
+This is a DIV SONAR using an Arduino and an Ultrasonic Ping Sensor.
 
-Requirments!!
+Requirments:
 
 Hardware:
 1.Ultrasonic Sensor (1x)
